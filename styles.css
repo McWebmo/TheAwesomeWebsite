@@ -100,3 +100,22 @@ button {
     font-weight: 900;
     color: #1F2937;
 }
+
+.quote {
+    background-color: #E5E7Eb;
+    padding: 55px 300px;
+}
+
+.quotetext {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quoteauthor {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1F2937;
+    text-align: end;
+}
