@@ -154,3 +154,20 @@ button {
     margin: 8px 0;
     font-size: 18px;
 }
+
+footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.copyright {
+    color: #d0daec;
+    font-size: 14px;
+}
+
+.contactme {
+    color: #acb3be;
+    margin-top: 5px;
+    font-size: 13px;
+}
