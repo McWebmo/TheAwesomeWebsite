@@ -119,3 +119,38 @@ button {
     color: #1F2937;
     text-align: end;
 }
+
+.cta {
+    display: flex;
+    padding: 55px 0;
+    justify-content: center;
+}
+
+.cta .container {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 15px;
+    gap: 40px;
+    padding: 30px 100px;
+}
+
+.cta .container button {
+    background-color: none;
+    border: white 2px solid;
+    height: 60%;
+    align-self: center;
+}
+
+.ctatext h1 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 8px 0;
+}
+
+.ctatext h2 {
+    color: #d0daec;
+    font-weight: lighter;
+    margin: 8px 0;
+    font-size: 18px;
+}
